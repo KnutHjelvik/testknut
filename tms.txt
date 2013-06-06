@@ -1,5 +1,5 @@
 husk tabelltipping
-bug
+bugfix
 bug
 husk tabelltipping
 bug
