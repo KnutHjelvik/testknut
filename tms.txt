@@ -4,3 +4,4 @@ bug
 husk tabelltipping
 bug
 bug
+større knapper
